@@ -1,0 +1,56 @@
+[
+    {
+        "rijec": "a",
+        "brojSlova": 1,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 1
+    },
+    {
+        "rijec": "b",
+        "brojSlova": 1,
+        "brojSuglasnika": 1,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "c",
+        "brojSlova": 1,
+        "brojSuglasnika": 1,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "\u010d",
+        "brojSlova": 1,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "AuTo",
+        "brojSlova": 4,
+        "brojSuglasnika": 1,
+        "brojSamoglasnika": 3
+    },
+    {
+        "rijec": "\u0161\u0111\u017e\u0107\u010dwq",
+        "brojSlova": 7,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "\u017e",
+        "brojSlova": 1,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "\u0161",
+        "brojSlova": 1,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 0
+    },
+    {
+        "rijec": "     ",
+        "brojSlova": 5,
+        "brojSuglasnika": 0,
+        "brojSamoglasnika": 0
+    }
+]
